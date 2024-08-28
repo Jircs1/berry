@@ -62,7 +62,7 @@
     "tslib": "^2.4.0",
     "unist-util-visit-parents": "^6.0.1",
     "usehooks-ts": "^2.9.1",
-    "webpack": "^5.88.2",
+    "webpack": "^5.94.0",
     "xterm": "^5.3.0",
     "xterm-addon-serialize": "^0.11.0",
     "xterm-headless": "^5.3.0"
